@@ -83,4 +83,5 @@ MIT
 
 可以的话赞赏一下喵
 
-<img width="700" height="340" alt="490f26c0699115961e7de5031710890e" src="https://github.com/user-attachments/assets/01949bfe-d0c3-4b0c-af27-9e5ad6c1a9a4" />
+<img width="1600" height="1040" alt="赞助-聚合收款码" src="https://github.com/user-attachments/assets/0f9bcd46-7a7b-44a0-b50c-12a24f9cca81" />
+
